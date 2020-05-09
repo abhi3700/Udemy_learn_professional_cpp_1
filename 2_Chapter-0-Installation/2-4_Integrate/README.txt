@@ -1,0 +1,2 @@
+- required C++ packages
+- integrate with CMake, GCC
