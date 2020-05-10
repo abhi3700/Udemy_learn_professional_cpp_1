@@ -1,1 +1,0 @@
-Follow the guide in 1st ST3 README
